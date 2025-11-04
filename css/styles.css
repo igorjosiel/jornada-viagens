@@ -2,6 +2,9 @@
     --background-primary-color: #ffffff;
     --background-secondary-color: #F5F5F5;
     --background-tertiary-color: #000;
+
+    --button-primary-color: #8F0101;
+    --button-secondary-color: #B81515;
 }
 
 /* CSS reset */
